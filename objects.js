@@ -145,3 +145,4 @@ viewNotes: Logs the notes for all the courses. Courses without notes are not dis
 // foo.viewNotes();
 // "Math: Fun course"
 // "Advanced Math: Difficult subject"
+
